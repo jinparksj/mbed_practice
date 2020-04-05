@@ -9,7 +9,16 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c19efac3-f569-478b-982a-53c99a679d31" name="Default Changelist" comment="" />
+    <list default="true" id="c19efac3-f569-478b-982a-53c99a679d31" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/mbed10_uart_serial_communication_pc.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mbed11_7_2_computer_uart_communication.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mbed12_putc_getc.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mbed13_7_4_readable.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mbed14_callback.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mbed15_varistors.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mbed9_pullup_pulldown_resistors_button.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +27,13 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1a5tolM43TG4APLZZhQKWtpsLDo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -27,6 +42,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -38,7 +54,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586037459233</updated>
-      <workItem from="1586037460572" duration="5041000" />
+      <workItem from="1586037460572" duration="5227000" />
+      <workItem from="1586066271022" duration="7779000" />
     </task>
     <servers />
   </component>
